@@ -4,4 +4,5 @@ npm install
 
 npm run dev
 
-注意：签字(canvas画笔位置)如位置不对，需做调整
+
+demo预览地址：http://www.jiaoguoliang.com/#/index/vue_timeline
